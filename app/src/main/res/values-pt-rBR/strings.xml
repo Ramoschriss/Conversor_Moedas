@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor de moedas</string>
+    <string name="app_description">Verifique as taxas ao vivo, defina alertas de taxas, receba notificações e muito mais.</string>
+    <string name="amount_label">Valor convertido</string>
+    <string name="converted_amount_label">Valor convertido</string>
+    <string name="btn_clean">LIMPAR</string>
+    <string name="hint_input">Ex: 100.00</string>
+    <string name="exchange_default_value">1 EUR = 6,10 BRL</string>
+    <string name="converted">100.00</string>
+</resources>
