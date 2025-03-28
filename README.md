@@ -14,7 +14,7 @@ Este projeto é um aplicativo Android nativo desenvolvido em Kotlin, com a princ
 - ViewGroups
   - Linear Layout
   - ConstraintLayout
-  - Views
+- Views
     - ImageButton
     - ImageView
     - TextView
